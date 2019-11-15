@@ -1,2 +1,2 @@
 # Classifier
-classifier implemented by tensorflow
+classifier implemented by pytorch
